@@ -1,0 +1,1 @@
+// Inside a .js file we define functions to make our webpage interact with the User
